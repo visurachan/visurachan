@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Visura Chandula
 
-<!--
-**visurachan/visurachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **Civil Engineer** turned **Computer Science Master's Student** at **Northumbria University**. With a background in **Business Analysis** in the IT sector and hands-on experience in **polytunnel cultivation**, I enjoy working at the intersection of **technology, data, and real-world applications**.
 
-Here are some ideas to get you started:
+### 🎯 Interests & Skills
+- **Software Development & Web Technologies** (HTML, CSS, JavaScript, React, PHP, Java)
+- **Business Analysis & ERP Systems**
+- **Construction & Project Management**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Current Projects
+- Developing a **Student platform** for students in Newcastle.
+- Learning **Python** Data Structures and Algorithms.
+  
+### 📫 Get in Touch
+- **LinkedIn:** [Visura Chandula](https://www.linkedin.com/in/visurachandula)
+- **GitHub:** [Visura Chandula](https://github.com/visurachan)
+- **Email:** visurachandula@gmail.com
+
+### 🎯 Fun Facts
+- I moved from **Sri Lanka to the UK** for my master's.
+- Passionate about **blending engineering with computer science**.
+- Enjoys **fitness training & cricket**.
+- Learnig about **Universe**
+
+Let's connect and build something awesome together! 🚀
+
+
+
