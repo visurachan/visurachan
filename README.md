@@ -1,24 +1,29 @@
-# 👋 Hi, I'm Visura Chandula
+👋 Hi, I'm Visura Chandula
 
 ### 🚀 About Me
-I’m a Civil Engineer turned Computer Science Master’s student at Northumbria University. After starting my career in construction, I transitioned into IT as a Business Analyst, working with clients in banking, engineering, manufacturing, and retail. I’m passionate about creating value through technology by building solutions that connect data with real-world applications.
+Civil Engineer turned Software Developer. I started my career in construction, transitioned into IT as a Business Analyst working with clients in banking, engineering, manufacturing, and retail, and completed an MSc in Computer Science at Northumbria University. I'm now focused on backend development — building real-world projects and deepening my technical skills.
 
 ### 🎯 Interests
-- Software Development & Web Technologies
+- Backend Development & System Design
 - Business Analysis & ERP Systems
 - Construction & Project Management
-- DRL agents
 
-### 🛠️ Tech stack
-- Matlab
+### 🛠️ Tech Stack
+**Main Focus**
+- Java & Spring Boot (Spring Security, JWT, REST APIs)
+- PostgreSQL
+- Docker
+- AWS
+
+**Also worked with**
+- React
 - PHP
 - HTML, CSS
-- React
-- Java & Spring
-    
+- MATLAB
+
 ### 📫 Get in Touch
 - **LinkedIn:** [Visura Chandula](https://www.linkedin.com/in/visurachandula)
 - **GitHub:** [Visura Chandula](https://github.com/visurachan)
 - **Email:** visurachandula@gmail.com
 
-Let's connect and build something awesome together! 🚀
+Let's connect and build something great.
