@@ -47,14 +47,14 @@ Customer → Banking API → Rate Limiter (HTTP)
                       → Fraud Detection (Kafka)
 ```
 
-### [careers-platform-api](https://github.com/visurachan/careers-backend)
+### [Careers-Platform-API](https://github.com/visurachan/careers-backend)
 Live careers platform backend with TDD, GitHub Actions CI/CD, AWS S3 for CV uploads, and role-based access control.
 
 ---
 
 ## 🎯 Currently
 
-- Actively seeking junior to mid backend engineering roles in the UK
+- Actively seeking junior to mid backend engineering roles in the UK and SL
 - AWS Certified Cloud Practitioner
 - Primary stack is Java but open to exploring other languages and ecosystems
 
