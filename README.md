@@ -30,7 +30,7 @@ technical skills across the stack.
 
 ## 🏗️ Projects
 
-## Projects
+
 
 ### Banking Microservices System
 
