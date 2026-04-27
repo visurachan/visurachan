@@ -30,11 +30,22 @@ technical skills across the stack.
 
 ## 🏗️ Projects
 
-### [fraud-detection-service](https://github.com/visurachan/fraud-detection-service)
-Event-driven fraud detection microservice consuming transaction events via Apache Kafka and evaluating them against a real-time rule engine. Built with Java 21, Spring Boot 3, Redis, PostgreSQL, Prometheus and Grafana.
+## Projects
 
-### [banking-core-api](https://github.com/visurachan/banking-core-api)
-Production-grade banking REST API implementing double-entry ledger accounting, idempotent transactions, optimistic locking, and Redis caching. Publishes transaction events to Kafka consumed by the fraud detection microservice.
+### Banking Microservices System
+
+A three-service microservices architecture simulating a real-world banking platform.
+
+| Service | Description | Tech |
+|---|---|---|
+| [Banking Core API](https://github.com/your-username/banking-core-api) | Customer-facing banking operations — accounts, transfers, transaction history | Spring Boot, PostgreSQL, Redis, Kafka |
+| [Rate Limiter Service](https://github.com/your-username/rate-limiter-service) | Standalone distributed rate limiting — protects APIs using Token Bucket algorithm | Spring Boot, Redis Lua, Resilience4j |
+| [Fraud Detection Service](https://github.com/your-username/fraud-detection-service) | Async fraud analysis on every transaction | Spring Boot, Kafka, PostgreSQL |
+
+```
+Customer → Banking API → Rate Limiter (HTTP)
+                      → Fraud Detection (Kafka)
+```
 
 ### [careers-platform-api](https://github.com/visurachan/careers-backend)
 Live careers platform backend with TDD, GitHub Actions CI/CD, AWS S3 for CV uploads, and role-based access control.
