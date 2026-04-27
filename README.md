@@ -38,8 +38,8 @@ A three-service microservices architecture simulating a real-world banking platf
 
 | Service | Description | Tech |
 |---|---|---|
-| [Banking Core API](https://github.com/your-username/banking-core-api) | Customer-facing banking operations — accounts, transfers, transaction history | Spring Boot, PostgreSQL, Redis, Kafka |
-| [Rate Limiter Service](https://github.com/your-username/rate-limiter-service) | Standalone distributed rate limiting — protects APIs using Token Bucket algorithm | Spring Boot, Redis Lua, Resilience4j |
+| [Banking Core API](https://github.com/visurachan/banking-core-api) | Customer-facing banking operations — accounts, transfers, transaction history | Spring Boot, PostgreSQL, Redis, Kafka |
+| [Rate Limiter Service](https://github.com/your-username/rate-limiter) | Standalone distributed rate limiting — protects APIs using Token Bucket algorithm | Spring Boot, Redis Lua, Resilience4j |
 | [Fraud Detection Service](https://github.com/your-username/fraud-detection-service) | Async fraud analysis on every transaction | Spring Boot, Kafka, PostgreSQL |
 
 ```
